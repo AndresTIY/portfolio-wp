@@ -9,3 +9,9 @@ In my situation, I would like to focus a bit more on freelancing. I can't create
 The purpose of my portfolio is to learn WordPress and showcase the skills I have learned.
 
 ### Research
+- Your portfolio is your proof of skill
+- The order of your portfolio should be
+  1. Skills
+  2. Work
+  3. About Me
+  4. Contact Me
